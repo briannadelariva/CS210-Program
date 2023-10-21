@@ -1,5 +1,8 @@
 # CS210-Program
-
+Brianna De La Riva
+Dr. Marcello
+Programming Languages (CS210)
+20 October 2023
 
 - Summarize the project and what problem it was solving.
 
